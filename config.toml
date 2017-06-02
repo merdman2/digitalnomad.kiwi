@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Artists Theme"
+title = "Digital Nomad AirBnB Nelson"
 theme = "hugo-artists-theme"
 
 [params]
