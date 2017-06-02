@@ -47,20 +47,27 @@ theme = "hugo-artists-theme"
 
 		[[params.about.skills]]
 			name = "Sun"
+			value = 9
 
 		[[params.about.skills]]
 			name = "Proximity to Town"
+			value = 9
 
 		[[params.about.skills]]
-
+			name = "Seaview"
+			value = 9
+			
 		[[params.about.skills]]
 			name = "Friendly People"
 			value = 10
 
 		[[params.about.skills]]
+			name = "Awesome Cat"
 			value = 10
 
 		[[params.about.skills]]
+			name = "Fast Internet"
+			value = 10
 
 
 	# Contact secion

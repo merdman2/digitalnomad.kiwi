@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Artists Theme</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Hugo Artists Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-1/</guid>
+      <description>The Room is large and sunny, with a great view and lots of storage!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-2/</guid>
+      <description>We provide the infrastructure to work from here. Your own desk and fast Internet, with good WiFi signal throughout the house and on the deck.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-3/</guid>
+      <description>Our garden is relaxing and provides some herbs and fruits. A BBQ is on the deck and we have amazing views, sun and only a short stroll to town - all evenly balanced across our 3 major needs.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-4/</guid>
+      <description>Downstairs you find our lounge, kitchen and conservatory. A logfire keeps us warm during winter. The sun greets us early and stays with us the whole day.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/work/proj-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/proj-8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
