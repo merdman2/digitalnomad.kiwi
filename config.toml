@@ -71,6 +71,7 @@ theme = "hugo-artists-theme"
 
 
 	# Contact secion
+	# Currently disabled in template
 	[params.contact]
 		title = "Contact"
 
