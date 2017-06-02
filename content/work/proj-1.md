@@ -1,5 +1,5 @@
-The Room is large with a great view!
+The Room is large and sunny, with a great view and lots of storage!
 
-![The Room](img/room/p1/1.JPG)
-![The Room](img/room/p1/2.JPG)
-![The Room](img/room/p1/3.JPG)
+![The Room](img/work/proj-1/1.JPG)
+![The Room](img/work/proj-1/2.JPG)
+![The Room](img/work/proj-1/3.JPG)

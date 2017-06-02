@@ -2,36 +2,37 @@
 title = "5 Reasons to Stay with us, Number 3 will blow you away!"
 
 [[list]]
-    avatar = "face-aaroni.jpg"
-    name   = "Scott Summers"
-    title  = "Director of Design, OnToText Ind."
-    quote  = "**While we all felt that Travis was a great** asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often."
+    avatar = "face-sun.jpg"
+    name   = "Sunny As!"
+    title  = "Nelson is the Sunshine Capital of New Zealand"
+    quote  = "**Our place gets a lot of sun!** We're not the first (they get it about 30min earlier) and not the last (they loose it about 30min later) but still the ones that have it for all the time inbetween."
     logo   = "logo1.png"
+# logos are disabled in the template currently
 
 [[list]]
-    avatar = "face-atariboy.jpg"
-    name   = "Hank McCoy"
-    title  = "Eater of Salad, Antartica Int."
-    quote  = "**Working with Travis was the highlight of my career.** Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying \"uh huh, and then what?\" 30 times in a row to my girlfriend without her noticing."
+    avatar = "info.png"
+    name   = "We know New Zealand!"
+    title  = "We have travelled New Zealand extensively"
+    quote  = "**Ask us anything!** And we will gladly let you know our ideas of what to do, where to do it and when to do it."
     logo   = "logo2.png"
 
 [[list]]
-    avatar = "face-jackiesaik.jpg"
-    name   = "Stacy Lang"
-    title  = "Social Media Girl, Quebec Int."
-    quote  = "**Yea, I guess hes good at computers or something,** but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?"
+    avatar = "foundation.png"
+    name   = "Local.Foundation"
+    title  = "We're members of a local Startup Group"
+    quote  = "**That has blown ya away, eh ;-)** We meet every Wednesday and you're welcome to tag along!"
     logo   = "logo3.png"
 
 [[list]]
-    avatar = "face-teleject.jpg"
-    name   = "Cleatus Cassidy"
-    title  = "VP of Helmut, Lorem Sorem LLC."
-    quote  = "**Back in old country** only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework."
+    avatar = "us.jpg"
+    name   = "Meet Us!"
+    title  = "So, as we live here, you will meet us"
+    quote  = "**We live here and welcome you!** We like a bit of interaction ith our guests, so please don't lock yourself away in your room all day and night."
     logo   = "logo4.png"
 	
 [[list]]
-    avatar = "face-teleject.jpg"
-    name   = "Cleatus Cassidy"
-    title  = "VP of Helmut, Lorem Sorem LLC."
-    quote  = "**Back in old country** only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework."
+    avatar = "cathedral.jpg"
+    name   = "Close to Town"
+    title  = "We're like 5min away from the CBD"
+    quote  = "**Walking is all you need!** 5min away from the CBD, 10min away from the best restaurants, 5min to the Saturday market, 15min to the cinema and to the bus to the beach."
     logo   = "logo4.png"

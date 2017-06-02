@@ -1,0 +1,105 @@
+# Site settings
+baseurl = "https://example.org/"
+languageCode = "en-us"
+title = "Hugo Artists Theme"
+theme = "hugo-artists-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Digital Nomad AirBnB Nelson New Zealand"
+	description = "Digital Nomad friendly AirBnB in Nelson New Zealand"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "your@email.com"
+
+
+	# Header an navigation
+	#
+	# To change the header background the 'hero-bg-jpg' at 'static/img'.
+	# Do the same with the logo ('logo.svg').
+	# But keep the original filename!
+	[params.header]
+		title = "Digital Nomad Friendly AirBnB"
+		shortBio = "Explore // Rest // Work"
+
+
+	# About section
+	#
+	# Replace the 'avatar.jpg' under 'static/img' with your own image.
+	[params.about]
+		title = "Nelson Treehouse"
+		bio = "**Stay with Us** to relax, to explore Nelson, as a base for your tramping adventures, taste local food and wine, and if you're a Digital Nomad enjoy your own desk, ultra fast WiFi, low monthly rates and full access to the kitchen and BBQ. Check out our [Virtual Tour](//youtube.com/user/devtipsfordesigners)."
+
+		[[params.about.skills]]
+			name = "Sun"
+
+		[[params.about.skills]]
+			name = "Proximity to Town"
+
+		[[params.about.skills]]
+
+		[[params.about.skills]]
+			name = "Friendly People"
+			value = 10
+
+		[[params.about.skills]]
+			value = 10
+
+		[[params.about.skills]]
+
+
+	# Contact secion
+	[params.contact]
+		title = "Contact"
+
+		# The following social network icons are available:
+		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
+		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		
+		#[[params.contact.social]]
+		#	icon = "twitter"
+		#	link = "//twitter.com/devtipsshow"
+
+		#[[params.contact.social]]
+		#	icon = "dribbble"
+		#	link = "//dribbble.com/travisneilson"
+
+		#[[params.contact.social]]
+		#	icon = "behance"
+		#	link = "//www.behance.net/travisneilson"
+
+		#[[params.contact.social]]
+		#	icon = "youtube"
+		#	link = "//www.youtube.com/DevTipsForDesigners"
+
+		#[[params.contact.social]]
+		#	icon = "linkedin"
+		#	link = "//www.linkedin.com/in/travisneilson"
+
+
+	[params.form]
+		title = "Let's work together"
+		# Form fields
+		name = "Your Name"
+		email = "Your Email"
+		message = "Tell me about your project"
+		buttonText = "Send"
+
+
+	[params.footer]
+		copyright = "Nelson Treehouse 2017"
