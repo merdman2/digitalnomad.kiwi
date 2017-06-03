@@ -11,7 +11,7 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Digital Nomad friendly AirBnB Nelson - New Zealand"
+	name = "Digital Nomad friendly AirBnB Nelson - New Zealand "
 	description = "Digital Nomad friendly AirBnB in Nelson New Zealand, great monthly rates and ultra fast internet. Nelson, New Zealand is a great place for Digital Nomads, with a nice co-working space, a small Startup scene, awesome coffee, beaches and mountains. And an overall great affordability. Stay with us and we tell you more. Enjoy a 360 image of the room on our website."
 
 	# Since this template is static, the contact form uses www.formspree.io as a
