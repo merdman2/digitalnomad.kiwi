@@ -11,7 +11,7 @@ theme = "hugo-artists-theme"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Digital Nomad AirBnB Nelson New Zealand"
+	name = "Digital Nomad friendly AirBnB Nelson - New Zealand"
 	description = "Digital Nomad friendly AirBnB in Nelson New Zealand. Nelson, New Zealand is a great place for Digital Nomads, with a nice co-working space, a small Startup scene, awesome coffee, beaches and mountains. And an overall great affordability. Stay with us and we tell you more."
 
 	# Since this template is static, the contact form uses www.formspree.io as a
@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "Nelson Treehouse"
-		bio = "**Stay with us** to relax and to explore Nelson, New Zealand. Base yourself here for your tramping adventures, to taste local food and wine or to take a break from your break. If you're a Digital Nomad you will enjoy your own desk, lots of storage space to unpack, ultra fast WiFi, low monthly rates and full access to the kitchen and BBQ. We have travelled New Zealand extensively and will happily give you ideas on what to do. We're both very engaged in the local Startup community, so if you're keen, please tag along. And if we find the time we go tramping in one of our three close-by National Parks."
+		bio = "**Stay with us** to relax and to explore Nelson, New Zealand. Base yourself here for your tramping adventures, to taste local food and wine or to take a break from your break. If you're a Digital Nomad you will enjoy your own desk, lots of storage space to unpack, ultra fast WiFi, low monthly rates and full access to the kitchen and BBQ. We have travelled New Zealand extensively and will happily give you ideas on what to do. We're both very engaged in the local Startup community, so if you're keen, please tag along. If we find the time we go tramping in one of our three close-by National Parks, go kayak fishing or enjoy a day at the beach."
 
 		[[params.about.skills]]
 		name = "Sun"
