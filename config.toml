@@ -43,32 +43,32 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "Nelson Treehouse"
-		bio = "**Stay with Us** to relax, to explore Nelson, as a base for your tramping adventures, taste local food and wine, and if you're a Digital Nomad enjoy your own desk, ultra fast WiFi, low monthly rates and full access to the kitchen and BBQ. Check out our [Virtual Tour](//youtube.com/user/devtipsfordesigners)."
+		bio = "**Stay with us** to relax and to explore Nelson, New Zealand. Base yourself here for your tramping adventures, to taste local food and wine or to take a break from your break. If you're a Digital Nomad you will enjoy your own desk, lots of storage space to unpack, ultra fast WiFi, low monthly rates and full access to the kitchen and BBQ. We have travelled New Zealand extensively and will happily give you ideas on what to do. We're both very engaged in the local Startup community, so if you're keen, please tag along. And if we find the time we go tramping in one of our three close-by National Parks."
 
 		[[params.about.skills]]
-			name = "Sun"
-			value = 9
+		name = "Sun"
+		value = 9
 
 		[[params.about.skills]]
-			name = "Proximity to Town"
-			value = 9
-
-		[[params.about.skills]]
-			name = "Seaview"
-			value = 9
+		name = "Great People"
+		value = 10
+			
 			
 		[[params.about.skills]]
-			name = "Friendly People"
-			value = 10
+		name = "Proximity to Town"
+		value = 9
 
 		[[params.about.skills]]
-			name = "Awesome Cat"
-			value = 10
-
+		name = "Awesome Cat"
+		value = 10
+			
 		[[params.about.skills]]
-			name = "Fast Internet"
-			value = 10
-
+		name = "Seaview"
+		value = 9
+			
+		[[params.about.skills]]
+		name = "Fast Internet"
+		value = 10
 
 	# Contact secion
 	# Currently disabled in template

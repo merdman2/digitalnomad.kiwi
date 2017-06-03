@@ -20,19 +20,19 @@ title = "5 Reasons to Stay with us, Number 3 will blow you away!"
     avatar = "foundation.png"
     name   = "Local.Foundation"
     title  = "We're members of a local Startup Group"
-    quote  = "**That has blown ya away, eh ;-)** We meet every Wednesday and you're welcome to tag along!"
+    quote  = "**That has blown ya away, eh ;-)** Local Foundation is a Nelson Startup Meetup group and you're welcome to tag along!"
     logo   = "logo3.png"
 
 [[list]]
     avatar = "us.jpg"
     name   = "Meet Us!"
-    title  = "So, as we live here, you will meet us"
+    title  = "We live here, so you will meet us"
     quote  = "**We live here and welcome you!** We like a bit of interaction with our guests, so please don't lock yourself away in your room all day and night."
     logo   = "logo4.png"
 	
 [[list]]
     avatar = "cathedral.jpg"
     name   = "Close to Town"
-    title  = "We're like 5min away from the CBD"
+    title  = "We're only 5min away from the CBD"
     quote  = "**Walking is all you need!** 5min away from the CBD, 10min away from the best restaurants, 5min to the Saturday market, 15min to the cinema and to the bus to the beach."
     logo   = "logo4.png"
